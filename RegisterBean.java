@@ -1,4 +1,3 @@
-// 4. パッケージ宣言
 package bean;
 import java.io.Serializable;
 
